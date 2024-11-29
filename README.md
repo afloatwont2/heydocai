@@ -12,7 +12,7 @@ YouHow is a real-time messaging application built using Flutter for the frontend
 - User-friendly UI
 
 ### Screenshots:
-- Login/Register Pages  
+- Login/Register Pages   
   <img src="https://github.com/4YU5H25/YouHow--chatApp/assets/137501269/cf7bef6f-7349-4726-b09f-e9f67cac8b91" width="200" />
   <img src="https://github.com/4YU5H25/YouHow--chatApp/assets/137501269/67451896-ad85-4abc-8ed6-f56342f23edd" width="200" /> 
 
