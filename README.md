@@ -2,6 +2,8 @@
 
 ## YouHow Chat App
 
+Repository URL: [YouHow Chat App](https://github.com/afloatwont/YouHow--chatApp)
+
 YouHow is a real-time messaging application built using Flutter for the frontend, Firebase for backend services, and Agora for voice and video calling functionalities. It features:
 
 - Real-time messaging
@@ -44,6 +46,8 @@ YouHow is a real-time messaging application built using Flutter for the frontend
 ---
 
 ## Serene - Mental Health App
+
+Repository URL: [Serene: Mental Health App](https://github.com/afloatwont/Serene--Mental-Health-App)
 
 **Serene** is a mobile application focused on promoting emotional wellness and mental health. It integrates advanced technology with user-centric features to provide a supportive and intuitive platform for users.
 
