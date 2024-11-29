@@ -59,27 +59,27 @@ YouHow is a real-time messaging application built using Flutter for the frontend
 
 - Login and SignUp UI
 
-  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/b9a53183-8de4-466c-b636-8bbf7d4f5caf" width="400"/> <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/b356a555-8ad9-4f70-9cea-b553bc94d4fb" width="400"/>
+  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/b9a53183-8de4-466c-b636-8bbf7d4f5caf" width="200"/> <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/b356a555-8ad9-4f70-9cea-b553bc94d4fb" width="200"/>
 
 - Home UI
 
-  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/21f2348f-6840-428d-bb16-804716e6d833" width="400"/> <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/46d175c4-7a3d-4398-b2e8-e50c7d6f3f7d" width="400"/> <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/9d5dc632-ab51-4a12-abd9-6b3b2e0b67e8" width="400"/>
+  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/21f2348f-6840-428d-bb16-804716e6d833" width="200"/> <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/46d175c4-7a3d-4398-b2e8-e50c7d6f3f7d" width="200"/> <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/9d5dc632-ab51-4a12-abd9-6b3b2e0b67e8" width="200"/>
 
 - Chatbot
 
-  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/da205701-bf1a-40b0-b350-21da64d2d90d" width="400"/>
+  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/da205701-bf1a-40b0-b350-21da64d2d90d" width="200"/>
 
 - Chat with Friends
 
-  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/8d822ad7-01f5-4cdc-9aaa-9e51734042f8" width="400"/>
+  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/8d822ad7-01f5-4cdc-9aaa-9e51734042f8" width="200"/>
 
 - Journal Entry
 
-  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/341fd240-fdf7-4c9e-a7df-17659d60711d" width="400"/> <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/ce94c8c7-1b28-4da2-9af3-05c968e2d6e5" width="400"/>
+  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/341fd240-fdf7-4c9e-a7df-17659d60711d" width="200"/> <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/ce94c8c7-1b28-4da2-9af3-05c968e2d6e5" width="200"/>
 
 - WellnessAssess
 
-  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/b2f9139f-55f4-41e6-8fe9-b2f486f5da75" width="400"/>
+  <img src="https://github.com/4YU5H25/Serene--Mental-Health-App/assets/137501269/b2f9139f-55f4-41e6-8fe9-b2f486f5da75" width="200"/>
 
 
 ## Ploofypaws - Internship
@@ -88,18 +88,18 @@ YouHow is a real-time messaging application built using Flutter for the frontend
 
 ### Screenshots
 
-  <img src="https://github.com/user-attachments/assets/8768fd61-1075-41dc-ac7d-9a848eedebb3" width="400"/>
+  <img src="https://github.com/user-attachments/assets/8768fd61-1075-41dc-ac7d-9a848eedebb3" width="200"/>
   
-  <img src="https://github.com/user-attachments/assets/cb0882c2-8a46-4d28-a650-504ae6a569e1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/cb0882c2-8a46-4d28-a650-504ae6a569e1" width="200"/>
   
-  <img src="https://github.com/user-attachments/assets/a98f6438-ea44-4c6a-96df-54fc9c3da20f" width="400"/>
+  <img src="https://github.com/user-attachments/assets/a98f6438-ea44-4c6a-96df-54fc9c3da20f" width="200"/>
   
-  <img src="https://github.com/user-attachments/assets/e7f464e2-77ff-4a03-9e75-5c2b4ca589e5" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e7f464e2-77ff-4a03-9e75-5c2b4ca589e5" width="200"/>
   
-  <img src="https://github.com/user-attachments/assets/bb2976f8-78ac-4e29-b299-f95d8a3c09a0" width="400"/>
+  <img src="https://github.com/user-attachments/assets/bb2976f8-78ac-4e29-b299-f95d8a3c09a0" width="200"/>
   
-  <img src="https://github.com/user-attachments/assets/a4deaedb-5ab1-43ce-bedd-18a073ea7282" width="400"/>
+  <img src="https://github.com/user-attachments/assets/a4deaedb-5ab1-43ce-bedd-18a073ea7282" width="200"/>
   
-  <img src="https://github.com/user-attachments/assets/f294d9b8-4f46-4be5-9bad-d32c02a48606" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f294d9b8-4f46-4be5-9bad-d32c02a48606" width="200"/>
   
   https://github.com/user-attachments/assets/50d6cf0b-4304-4067-ae03-d2ee37bc4661
